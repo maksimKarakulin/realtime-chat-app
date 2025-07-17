@@ -32,6 +32,8 @@ real-time-chat-app/
 │   │   ├── assets/   # Images/fonts
 │   │   ├── components/ # Reusable UI
 │   │   ├── views/    # Pages (e.g., ChatView.vue)
+│   │   ├── router/   # Vue Router setup
+│   │   ├── store/    # Vuex state management
 │   │   ├── App.vue   # Root component
 │   │   └── main.js   # Vue entry point
 │   ├── .env          # Frontend config (API_URL)
